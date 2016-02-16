@@ -12,7 +12,7 @@ Item {
         name: "left"
         PropertyChanges {
             target: image
-            source: "qrc:Arrow-bg--left.png"
+            source: "qrc:/org/qtmob/material/carousel/Arrow-bg--left.png"
         }
     }
 
@@ -23,7 +23,7 @@ Item {
         id: image
         anchors.fill: parent
         fillMode: Image.PreserveAspectFit
-        source: "qrc:Arrow-bg.png"
+        source: "qrc:/org/qtmob/material/carousel/Arrow-bg.png"
     }
 
     Ink {
