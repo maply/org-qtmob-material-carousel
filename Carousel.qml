@@ -50,8 +50,8 @@ Item {
     Row {
         id: navigationBeads
 
-        anchors.top: parent.top
-        anchors.topMargin: Units.dp(64)
+        anchors.bottom: parent.bottom
+        //anchors.topMargin: Units.dp(64)
         anchors.horizontalCenter: parent.horizontalCenter
 
         Repeater {

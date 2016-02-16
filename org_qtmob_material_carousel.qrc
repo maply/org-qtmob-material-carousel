@@ -3,7 +3,7 @@
         <file>Carousel.qml</file>
         <file>qmldir</file>
         <file>Arrow.qml</file>
-        <file>Arrow-bg--left.png</file>
         <file>Arrow-bg.png</file>
+        <file>Arrow-bg--left.png</file>
     </qresource>
 </RCC>
