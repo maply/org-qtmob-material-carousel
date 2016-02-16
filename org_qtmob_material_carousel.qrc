@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/org/qtmob/material/carousel">
+        <file>Carousel.qml</file>
+        <file>qmldir</file>
+        <file>Arrow.qml</file>
+        <file>Arrow-bg--left.png</file>
+        <file>Arrow-bg.png</file>
+    </qresource>
+</RCC>
